@@ -1,0 +1,11 @@
+E:\Pemograman\Tugas4\Tugas4\bin\Debug\netcoreapp3.1\Tugas4.exe
+E:\Pemograman\Tugas4\Tugas4\bin\Debug\netcoreapp3.1\Tugas4.deps.json
+E:\Pemograman\Tugas4\Tugas4\bin\Debug\netcoreapp3.1\Tugas4.runtimeconfig.json
+E:\Pemograman\Tugas4\Tugas4\bin\Debug\netcoreapp3.1\Tugas4.runtimeconfig.dev.json
+E:\Pemograman\Tugas4\Tugas4\bin\Debug\netcoreapp3.1\Tugas4.dll
+E:\Pemograman\Tugas4\Tugas4\bin\Debug\netcoreapp3.1\Tugas4.pdb
+E:\Pemograman\Tugas4\Tugas4\obj\Debug\netcoreapp3.1\Tugas4.csprojAssemblyReference.cache
+E:\Pemograman\Tugas4\Tugas4\obj\Debug\netcoreapp3.1\Tugas4.AssemblyInfoInputs.cache
+E:\Pemograman\Tugas4\Tugas4\obj\Debug\netcoreapp3.1\Tugas4.AssemblyInfo.cs
+E:\Pemograman\Tugas4\Tugas4\obj\Debug\netcoreapp3.1\Tugas4.dll
+E:\Pemograman\Tugas4\Tugas4\obj\Debug\netcoreapp3.1\Tugas4.pdb
